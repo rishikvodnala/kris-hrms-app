@@ -8,3 +8,5 @@ git remote add origin https://github.com/rishikvodnala/kris-hrms-app.git
 git push -u origin main
 
 Understanding Pull.
+
+From local branch
